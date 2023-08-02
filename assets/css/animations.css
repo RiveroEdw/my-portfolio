@@ -1,0 +1,16 @@
+.animate__animated.animate__fadeInLeft {
+    animation-duration: 2s;
+}
+
+.animate__animated.animate__bounceInLeft {
+    animation-duration: 1.5s;
+}
+
+.animate__animated.animate__fadeInLeftBig {
+    
+    animation-duration: 2s;
+}
+
+.animate__animated.animate__bounceInLeft {
+    animation-duration: 1.5s;
+}
